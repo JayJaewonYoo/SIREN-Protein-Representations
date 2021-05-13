@@ -3,6 +3,6 @@ Repository containing code used for Engineering Science undergraduate thesis inv
 
 The training.ipynb notebook is a base notebook that can be used to train SIREN models to represent protein structures and inference.ipynb notebook is a base notebook that demonstrates how to perform inference and evaluate the quality of the structures using the trained SIREN models. 
 
-The final document written for this thesis can be found in thesis_final_document_jayjaewonyoo_1002939671.pdf
+The final document written for this thesis can be found in thesis_final_document_jayjaewonyoo_1002939671.pdf. See the discussions and conclusion sections of this final document for bottlenecks found during the thesis and suggested future steps for improving SIREN representations of protein structures. 
 
 The code used in this repository is based on the code provided by the authors of the original SIREN paper, V. Sitzmann, J. N. P. Martel, A. Bergman, et al. Their code can be found https://vsitzmann.github.io/siren/. It is highly encouraged to visit this page and read corresponding the paper. 
