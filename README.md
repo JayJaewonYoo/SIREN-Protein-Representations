@@ -5,4 +5,4 @@ The training.ipynb notebook is a base notebook that can be used to train SIREN m
 
 The final document written for this thesis can be found in thesis_final_document_jayjaewonyoo_1002939671.pdf
 
-The code used in this repository is based on the code provided by the authors of the original SIREN paper, V. Sitzmann, J. N. P. Martel, A. Bergman, et al. Their code can be found https://vsitzmann.github.io/siren/ and it is highly encouraged to visit this page and read corresponding the paper. 
+The code used in this repository is based on the code provided by the authors of the original SIREN paper, V. Sitzmann, J. N. P. Martel, A. Bergman, et al. Their code can be found https://vsitzmann.github.io/siren/. It is highly encouraged to visit this page and read corresponding the paper. 
